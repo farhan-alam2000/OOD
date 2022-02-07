@@ -1,3 +1,2 @@
-# OOD
-Object Oriented Design
+# Object Oriented Design
 Designing and implementation of various OOD problems
