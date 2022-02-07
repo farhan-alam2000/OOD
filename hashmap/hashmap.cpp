@@ -35,7 +35,7 @@ public:
 };
 class MyHashMap {
 private:
-	static const int size = 997; //997, 769 -> taking prime numbers as bucket size to minimize collisions
+    static const int size = 997; //997, 769 -> taking prime numbers as bucket size to minimize collisions
     vector<Item> List[size]; //Array of vectors to store the list of elements belonging to each bucket index
 public:
     MyHashMap() {
